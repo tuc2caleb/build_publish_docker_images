@@ -73,4 +73,4 @@ export APP_COLOR=blue
 
 **This project template was created by Irina Geiman.**
 
-[![OpenAI](https://github.com/igeiman13/clo835_fall2022_assignment1)](https://github.com/igeiman13/clo835_fall2022_assignment1)
+[Repo: ](https://github.com/igeiman13/clo835_fall2022_assignment1)
